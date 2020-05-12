@@ -4,5 +4,6 @@ let ra=ran(n1,n2);
 function ran(a,b){
   for (let rang=n1; rang<=n2; rang++) {
   alert(rang);
+  alert(esta mal);
 }
 }
